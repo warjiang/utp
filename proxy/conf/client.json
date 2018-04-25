@@ -1,0 +1,23 @@
+{
+  "localaddr": ":12948",
+  "remoteaddr": "127.0.0.1:29900",
+  "crypt": "none",
+  "key": "x",
+  "mode": "manual",
+  "conn": 1,
+  "autoexpire": 0,
+  "mtu": 1400,
+  "sndwnd": 256,
+  "rcvwnd": 4096,
+  "datashard": 0,
+  "parityshard": 0,
+  "dscp": 46,
+  "nocomp": true,
+  "acknodelay": false,
+  "nodelay": 1,
+  "interval": 20,
+  "resend": 0,
+  "nc": 1,
+  "sockbuf": 4194304,
+  "keepalive": 10
+}
